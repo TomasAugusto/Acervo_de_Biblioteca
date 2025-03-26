@@ -1,0 +1,31 @@
+Tipo: Cartaz
+ID: 5
+Autor 1: Fulaninho
+Título: Black Friday 2016
+Edição: 1
+Cidade: Anápolis
+Editora: N/A
+Ano de publicação: 2016
+CDU: 2109567834893
+Assunto: Propaganda
+Palavra-chave 1: propaganda
+Palavra-chave 2: comercio
+Número de exemplares: 4
+Número de páginas: 1
+Tamanho da página: 60
+Status: 1
+Tipo: Cartaz
+ID: 8
+Autor 1: aaa
+Título: teste 3435
+Edição: 1
+Cidade: Itu
+Editora: UEMG
+Ano de publicação: 1998
+CDU: 2435345634764
+Assunto: TESTE
+Palavra-chave 1: nada
+Número de exemplares: 23
+Número de páginas: 1
+Tamanho da página: 60
+Status: 1

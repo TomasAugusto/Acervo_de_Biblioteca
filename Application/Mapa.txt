@@ -1,0 +1,16 @@
+Tipo: Mapa
+ID: 6
+Autor 1: Eric de Paula
+Título: Mapa de Sala
+Edição: 1
+Cidade: Divinopolis
+Editora: UEMG
+Ano de publicação: 2023
+CDU: 1289437654781
+Assunto: teste
+Palavra-chave 1: sala
+Palavra-chave 2: eric
+Número de exemplares: 2
+Número de páginas: 1
+Tamanho da página: 60
+Status: 1

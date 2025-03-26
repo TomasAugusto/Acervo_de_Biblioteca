@@ -1,0 +1,49 @@
+Tipo: Livro
+ID: 1
+Autor 1: Felipe A
+Título: Teste Um
+Edição: 1
+Cidade: Divinópolis
+Editora: UEMG
+Ano de publicação: 2022
+CDU: 2344598657483
+ISBN: 2344598657412
+Assunto: tESTE
+Palavra-chave 1: teste
+Número de exemplares: 5
+Número de páginas: 23
+Tamanho da página: 24
+Status: 1
+Tipo: Livro
+ID: 2
+Autor 1: Tomas D
+Título: Teste Dois
+Edição: 1
+Cidade: Pará de Minas
+Editora: UMG
+Ano de publicação: 2022
+CDU: 2344598657324
+ISBN: 2345674509784
+Assunto: Teste
+Palavra-chave 1: teste
+Número de exemplares: 43
+Número de páginas: 26
+Tamanho da página: 23
+Status: 1
+Tipo: Livro
+ID: 7
+Autor 1: Genilson Junior
+Título: Como perder amigos e desanimar pessoas
+Edição: 1
+Cidade: Divinopolis
+Editora: UEMG
+Ano de publicação: 2023
+CDU: 2190236745783
+ISBN: 2309784589756
+Assunto: Variedades
+Palavra-chave 1: baixaestima
+Palavra-chave 2: autodesajuda
+Número de exemplares: 34
+Número de páginas: 679
+Tamanho da página: 28
+Status: 1

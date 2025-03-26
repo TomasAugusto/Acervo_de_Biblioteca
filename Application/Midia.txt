@@ -1,0 +1,18 @@
+Tipo: DVD
+ID: 4
+Autor 1: Vince Gilligan
+Título: Breaking Bad
+Edição: 3
+Cidade: N/A
+Editora: Warner
+Ano de publicação: 2014
+CDU: 4355493827362
+Assunto: Ficção
+Palavra-chave 1: drama
+Palavra-chave 2: drogas
+Palavra-chave 3: serie
+Palavra-chave 4: premiada
+Número de exemplares: 23
+Número de páginas: 0
+Tamanho da página: 0
+Status: 1

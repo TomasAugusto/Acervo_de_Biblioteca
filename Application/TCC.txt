@@ -1,0 +1,15 @@
+Tipo: Monografia
+ID: 3
+Autor 1: Felipe A
+Título: Computação
+Edição: 1
+Cidade: Divinópolis
+Editora: UEMG
+Ano de publicação: 2012
+CDU: 3465473829109
+Assunto: Computação
+Palavra-chave 1: computacao
+Número de exemplares: 1
+Número de páginas: 46
+Tamanho da página: 23
+Status: 1
